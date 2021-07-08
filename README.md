@@ -18,3 +18,6 @@ Right now there are a few things that I know I need to change and I know how to 
 that sure on how to do it (but I do know it's possible).
 
 If you are around São Paulo, look out the website and... order some cookies! Why not, right?
+
+
+https://luuizcosta.github.io/paidecookie_landing_page/
