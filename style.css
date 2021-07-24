@@ -24,9 +24,9 @@ img
 :root
 {
   --base-color: #733D29;
-  --base-color-second: red;
-  --base-color-alt: red;
-  --title-color: red;
+  --base-color-second: #402A22;
+  --base-color-alt: #A62D12;
+  --title-color: #402A22;
   --text-color: #733D29;
   --text-color-light: #D9BD9C;
   --body-color: #D99152;
